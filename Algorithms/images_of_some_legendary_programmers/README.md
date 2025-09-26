@@ -4,40 +4,40 @@ This directory contains portraits of some of the most influential figures in the
 
 ---
 
-## Alan Turing (862K)
+## Alan Turing
 
-Considered the father of theoretical computer science and artificial intelligence.
+<img src="turing.png" alt="Alan Turing" width="250" />
 
-![Alan Turing](turing.png)
-
----
-
-## Donald Knuth (56K)
-
-The creator of the TeX typesetting system and author of the seminal work, "The Art of Computer Programming."
-
-![Donald Knuth](Knuth.jpg)
+Considered the father of theoretical computer science and artificial intelligence. **Size:** 862K.
 
 ---
 
-## Linus Torvalds (28K)
+## Donald Knuth
 
-The creator of the Linux kernel and the distributed version control system Git.
+<img src="Knuth.jpg" alt="Donald Knuth" width="250" />
 
-![Linus Torvalds](torvalds.jpg)
-
----
-
-## James Gosling (11K)
-
-Best known as the father of the Java programming language.
-
-![James Gosling](gosling.jpg)
+The creator of the TeX typesetting system and author of the seminal work, "The Art of Computer Programming." **Size:** 56K.
 
 ---
 
-## Dennis Ritchie (5.4K)
+## Linus Torvalds
 
-Co-creator of the C programming language and the Unix operating system.
+<img src="torvalds.jpg" alt="Linus Torvalds" width="250" />
 
-![Dennis Ritchie](ritchie.jpg)
+The creator of the Linux kernel and the distributed version control system Git. **Size:** 28K.
+
+---
+
+## James Gosling
+
+<img src="gosling.jpg" alt="James Gosling" width="250" />
+
+Best known as the father of the Java programming language. **Size:** 11K.
+
+---
+
+## Dennis Ritchie
+
+<img src="ritchie.jpg" alt="Dennis Ritchie" width="250" />
+
+Co-creator of the C programming language and the Unix operating system. **Size:** 5.4K.
